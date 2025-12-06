@@ -1,0 +1,3 @@
+- json-server:
+    - Cách cài: npm install -g json-server
+    - Chạy server: json-server --watch db.json
