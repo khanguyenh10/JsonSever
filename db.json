@@ -1,4 +1,22 @@
 {
-    "users": [],
-    "posts": []
+    "users": [
+        {
+            "name": "kha",
+            "email": "kha@gmail.com",
+            "password": "12345",
+            "id": "c1b3"
+        }
+    ],
+    "posts": [
+        {
+            "title": "title 1`",
+            "content": "content 1",
+            "id": "5c13"
+        },
+        {
+            "title": "title 2`",
+            "content": "content 2",
+            "id": "5c14"
+        }
+    ]
 }
