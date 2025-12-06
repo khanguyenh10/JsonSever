@@ -9,14 +9,22 @@
     ],
     "posts": [
         {
+            "user_id": "c1b3",
             "title": "title 1`",
             "content": "content 1",
             "id": "5c13"
         },
         {
+            "user_id": "d1b3",
             "title": "title 2`",
             "content": "content 2",
             "id": "5c14"
+        },
+        {
+            "user_id": "c1b3",
+            "title": "title 1`",
+            "content": "content 1",
+            "id": "5c15"
         }
     ]
 }
